@@ -1,0 +1,1170 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : DR. CIK SUHAIMI BIN YUSOF                    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>DR. CIK SUHAIMI BIN YUSOF                   </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PENSYARAH KANAN (DS52)
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=4lzE"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:suhaimi@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>suhaimi@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/218" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Virtual, Visualization and Vision (UTM ViCubeLab)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=47762230500" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">COMPUTER GRAPHICS - VIRTUAL ENVIRONMENT - AUGMENTED REALITY - MULTIMEDIA CONTENT; 3D COMPUTER GRAPHICS; AUGMENTED REALITY; ANIMATION; COMPUTER GRAPHICS; HUMAN COMPUTER INTERFACE; 3D; VIRTUAL ENVIRONMENTS; VIRTUAL REALITY; VISUALIZATION; 3D MODELING</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">25</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">16</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">4</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">2</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">2</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">0</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">0</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>AR MENU - Digital Twist To Menu Book<br /><span class="badge rounded-pill  bg-info">INNOVATION AND COMMERCIALISATION CENTRE (ICC) </span> <span class="badge rounded-pill  bg-success">Prototype Development Fund </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A New Fast Method of Real-time 3D reconstruction using Multiples RGB-Depth Camera Streams for Mixed Reality Telepresence<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PRECISE TARGET SELECTION METAPHOR WITH ROBUST EDGE-BASED MARKERLESS TRACKING TECHNIQUES IN MIXED REALITY INTERFACE<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HOLO-PROFESSOR: HOLOGRAPHIC TELEPRESENCE OF PROFESSOR<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Prototype Research </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Directed 3D Virtual Object Rotating Technique for Interaction in Mobile Augmented Reality<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FREE-HAND GESTURE INTERACTION IN HANDHELD INTERFACE FOR SCALED-MODEL<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Collaborative learning environment across emerging technologies of virtual and augmented reality<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FRAMEWORK OF MOBILE INTERACTION FOR POST-TRAUMA APHASIA NAMING THERAPY REHABILITATION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTUITIVE MOBILE-BASED TRACKING FOR URBAN SIMULATION IN AUGMENTED REALITY ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>URBAN WORKBENCH : GESTURE-BASED INTERACTION WITH 3D OBJECT TRACKING ON TABLETOP AUGMENTED REALITY<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Exploratory Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW TECHNIQUE FOR REALISTIC VIRTUAL HERITAGE IN OUTDOOR AUGMENTED REALITY<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>URBAN DISASTER VISUALISATION ON TABLETOP USING AUGMENTED REALITY<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>OUTDOOR HERITAGE BUILDING RENDERING IN AUGMENTED REALITY<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SILHOUETTE DETECTION ALGORITHM IN SHADOW GENERATION FOR VIRTUAL ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Level of Details of Multi-Layer Images and Dynamic Light Sources Technique for Soft Shadows Generation in Augmented Reality Environment<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Natural Interaction on Human Body Tracking for Low-Cost Motion Capture for Real-Time Computer Graphics Applications<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Real-Time Shadow With The Effects Of Sky Colour In Virtual Environment<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Collaborative Technique for Multi-user Interaction in Augmented Reality<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development Of Web Based Non-Rational B-Apline ( NURBS ) Surface Reconstruction System.<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Computer-Aided Geometric Design (CAGD) on Analytic/ Syntatic Curves and Surfaces for Object Modelling<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1997</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/127669">Mobile Gps-Based Using Augmented Reality For Utm Campus Tour</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON VIRTUAL AND MIXED REALITY&#xA;INTERFACES 2021 (ICVRMR2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/127665">Distant Object Selection In Handheld Augmented Reality Using Ray Pointing Gesture</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON VIRTUAL AND MIXED REALITY&#xA;INTERFACES 2021 (ICVRMR2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/115853">Finger-Ray Interaction Using Real Hand In Handheld Augmented Reality Interface </a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/115841">Bio-Wtip: Biology Lesson In Handheld Augmented Reality Application Using Tangible Interaction</a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/115465">Virtual Block Augmented Reality Game Using Freehand Gesture Interaction</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/105693">Object Manipulation Using&#xD;&#xA;Real Hand Gesture For&#xD;&#xA;Augmented Reality Interior&#xD;&#xA;Design</a>
+
+                                            <br />
+                                                ENCYCLOPEDIA OF COMPUTER GRAPHICS AND GAMES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99307">Designing An Augmented Reality Multimodal Interface For 6dof Manipulation Techniques</a>
+
+                                            <br />
+                                                ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99225">Developing Object Manipulation Using Real Hand Gesture For Augmented Reality Interior Design</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON INTERACTIVE DIGITAL MEDIA<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99236">Fingertips Interaction Method In Handheld Augmented Reality For 3d Manipulation</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON INTERACTIVE DIGITAL MEDIA (ICIDM2018)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99208">Virtual Block Game In Augmented Reality Using Free Hand Gesture</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/97584">Collaborative Handheld Augmented Reality For Interactive Furniture Interior Design</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99931"></a>
+
+                                            <br />
+                                                ANNUAL REPORT FACULTY OF COMPUTING 2017<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/99253">Designing An Augmented Reality Multimodal&#xD;&#xA;Interface For 6dof Manipulation Techniques</a>
+
+                                            <br />
+                                                 INTELLIGENT SYSTEMS CONFERENCE (INTELLISYS) 2018<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/74542">A Review Of 3d Gesture Interaction For Handheld Augmented Reality</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/10890">A Review Of 3d Gesture Interaction For Handheld Augmented Reality </a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON INTERACTIVE DIGITAL MEDIA (ICIDM) 2014<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/4lzE/5294">Towards Building Web Based Augmented Reality Application For Pre-School Children </a>
+
+                                            <br />
+                                                TELKOMNIKA <br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/4lzE/4JDK"> BIOLOGY MODULE WATER TRANSPORT IN PLANT FOR HANDHELD AUGMENTED REALITY USING TANGIBLE INTERACTION</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/4lzE/lyan"> A COLLABORATIVE AUGMENTED REALITY WITH CHESS GAME USING TWO HANDHELD DEVICES</a></td>
+                                        <td>LY2020007314</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/4lzE/obBG"> FINGER-RAY INTERACTION TECHNIQUE FOR REAL HAND GESTURE IN HANDHELD AUGMENTED REALITY INTERFACE </a></td>
+                                        <td>LY2020007313</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : CIK SUHAIMI BIN YUSOF                   " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : CIK SUHAIMI BIN YUSOF                   " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : CIK SUHAIMI BIN YUSOF                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : CIK SUHAIMI BIN YUSOF                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = '4lzE';
+        var scopus_id = '47762230500';
+        var nama_pekerja = 'CIK SUHAIMI BIN YUSOF                   ';
+        var no_pkrj = '7031';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1088 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>UTM Scholar :  Faculties &gt; FACULTY OF COMPUTING</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description" />
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author" />
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM" />
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/morris.js/morris.css" rel="stylesheet" type="text/css">
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                cursor: pointer
+            }
+            
+            button.focus,
+            button:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+
+<body data-topbar="light" data-layout="horizontal">
+
+    <!-- Begin page -->
+    <div id="layout-wrapper">
+
+        <header id="page-topbar">
+            <div class="navbar-header">
+                <div class="container-fluid">
+                    <div class="float-start">
+                        <!-- LOGO -->
+                        <div class="navbar-brand-box">
+                            <a class="logo logo-dark" href="/">
+                                <span class="logo-sm">
+                                    <img src="/assets/images/logo-sm.png" alt="" height="38">
+                                </span>
+                                <span class="logo-lg">
+                                    <img src="/assets/images/logo-utm.png" alt="" height="35">
+                                </span>
+                            </a>
+
+                            <a class="logo logo-light" href="/">
+                                <span class="logo-sm">
+                                    <img src="/assets/images/logo-sm.png" alt="" height="38">
+                                </span>
+                                <span class="logo-lg">
+                                    <img src="/assets/images/logo-utm.png" alt="" height="35">
+                                </span>
+                            </a>
+                        </div>
+
+                        <button type="button" class="btn btn-sm px-3 font-size-24 d-lg-none header-item waves-effect waves-light" data-bs-toggle="collapse" data-bs-target="#topnav-menu-content">
+                            <i class="mdi mdi-menu"></i>
+                        </button>
+                    </div>
+
+                    <div class="float-end">
+                        <div class="dropdown d-inline-block">
+                                <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                            
+                            <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                                <i class="mdi mdi-fullscreen font-size-24"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="top-navigation">
+                <div class="page-title-content">
+                    <div class="container-fluid">
+                        <!-- start page title -->
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="page-title-box">
+                                    <h4> Faculties &gt; FACULTY OF COMPUTING</h4>
+                                    <ol class="breadcrumb m-0">
+                                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                            <li class="breadcrumb-item active">
+                                                Faculties &gt; FACULTY OF COMPUTING
+                                            </li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end page title -->
+                    </div>
+                </div>
+
+                <div class="container-fluid">
+                    <div class="topnav">
+                        <nav class="navbar navbar-light navbar-expand-lg topnav-menu">
+
+                            <div class="collapse navbar-collapse" id="topnav-menu-content">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/"><i class="ti-dashboard"></i>Home</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/scholars"><i class="ti-support"></i>Scholars</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/research-unit"><i class="ti-pie-chart"></i>Research Units</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+
+        </header>
+
+        <div class="main-content">
+
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-12">
+        <div class="card m-b-20">
+            <div class="card-body">
+                <h4 class="mt-0 header-title text-uppercase">FACULTY OF COMPUTING</h4>
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-bs-toggle="tab" href="#FacultySummaryDetails" role="tab" aria-selected="true">
+                            <span class="d-block d-sm-none"><i class="fas fa-home"></i></span>
+                            <span class="d-none d-sm-block">Summary</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#FacultyListofScholars" role="tab" aria-selected="false">
+                            <span class="d-block d-sm-none"><i class="far fa-user"></i></span>
+                            <span class="d-none d-sm-block">List of Scholars</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <div class="tab-pane p-3 active" id="FacultySummaryDetails" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card m-b-20">
+                                    <div class="card-body">
+                                        <h4 class="mt-0 header-title">Number of academic staff</h4>
+                                        <div class="inbox-wid">
+                                            <div class="row">
+                                                <div class="col-md-8">
+                                                    <div id="staf_akademik_chart_faculties" class="morris-charts morris-chart-height"></div>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div id="legendAcademicStaff_Faculties"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">LECTURER</div>
+                                                            <div class="inbox-item-date">5</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">ASSOCIATE PROFESSOR</div>
+                                                            <div class="inbox-item-date">16</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PROFESSOR</div>
+                                                            <div class="inbox-item-date">9</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">SENIOR LECTURER</div>
+                                                            <div class="inbox-item-date">70</div>
+                                                        </div>
+                                                    <div class="inbox-item">
+                                                        <div class="inbox-item-img float-left mr-3"><strong>TOTAL</strong></div>
+                                                        <div class="inbox-item-date"><strong><span id="TotalStafAkademik"></span></strong></div>
+                                                    </div>
+                                                  </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card m-b-20">
+                                    <div class="card-body">
+                                        <h4 class="mt-0 header-title">Number of Principal Investigator</h4>
+                                        <div class="inbox-wid">
+                                            <div class="row">
+                                                <div class="col-md-8">
+                                                    <div id="principal_investigator_chart_faculties" class="morris-charts morris-chart-height"></div>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div id="legendPrincipalInvestigatorFaculties"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">UNIVERSITY FUND</div>
+                                                            <div class="inbox-item-date">11</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">NATIONAL GRANT</div>
+                                                            <div class="inbox-item-date">74</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">INDUSTRY GRANT</div>
+                                                            <div class="inbox-item-date">23</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">INTERNATIONAL GRANT</div>
+                                                            <div class="inbox-item-date">13</div>
+                                                        </div>
+                                                    <div class="inbox-item">
+                                                        <div class="inbox-item-img float-left mr-3"><strong>TOTAL</strong></div>
+                                                        <div class="inbox-item-date"><strong><span id="TotalFund"></span></strong></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card m-b-20">
+                                    <div class="card-body">
+                                        <h4 class="mt-0 header-title">Number of all verified publications</h4>
+                                        <div class="inbox-wid">
+                                            <div class="row">
+                                                <div class="col-md-7">
+                                                    <div id="verified_publication_chart_Faculties" class="morris-charts morris-chart-height"></div>
+                                                </div>
+                                                <div class="col-md-5">
+                                                    <div id="legendVerifiedPublicationFaculties"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">BOOK (TEXT)</div>
+                                                            <div class="inbox-item-date">40</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">EXCELLENCE IN RESEARCH FOR AUSTRALIA (ERA)</div>
+                                                            <div class="inbox-item-date">7</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">JOURNAL ARTICLE NON CITATION-INDEXED</div>
+                                                            <div class="inbox-item-date">881</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">ORIGINAL BOOK</div>
+                                                            <div class="inbox-item-date">33</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PELAPORAN / PENERBITAN KHUSUS (RANCANGAN MALAYSIA, STATISTIK KEBANGSAAN)</div>
+                                                            <div class="inbox-item-date">13</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">POLICY PAPER</div>
+                                                            <div class="inbox-item-date">2</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PROCEEDINGS</div>
+                                                            <div class="inbox-item-date">710</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PUBLICATION IN WEB OF SCIENCE</div>
+                                                            <div class="inbox-item-date">1561</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">BOOK CHAPTER</div>
+                                                            <div class="inbox-item-date">618</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">CLASIFIED/TECHNICAL REPORT</div>
+                                                            <div class="inbox-item-date">118</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">CONFERENCE PAPER</div>
+                                                            <div class="inbox-item-date">780</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">MODULES / MANUAL</div>
+                                                            <div class="inbox-item-date">85</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">MONOGRAPH</div>
+                                                            <div class="inbox-item-date">23</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PUBLICATION IN ACADEMIC AND PROFESIONAL MAGAZINE</div>
+                                                            <div class="inbox-item-date">15</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">ARTICLE IN MASS MEDIA</div>
+                                                            <div class="inbox-item-date">33</div>
+                                                        </div>
+                                                        <div class="inbox-item">
+                                                            <div class="inbox-item-img float-left mr-3">PUBLICATION IN SCOPUS</div>
+                                                            <div class="inbox-item-date">2305</div>
+                                                        </div>
+                                                    <div class="inbox-item">
+                                                        <div class="inbox-item-img float-left mr-3"><strong>TOTAL</strong></div>
+                                                        <div class="inbox-item-date"><strong><span id="TotalPublication"></span></strong></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane p-3 " id="FacultyListofScholars" role="tabpanel">
+                        <p class="mb-0">
+                            <div class="table-responsive">
+                                <table id="ListScholarFacultyDashboard" class="table dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                                    <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Research </th>
+                                        <th>Faculty</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/E2YG">MOHD SHAFRY BIN MOHD RAHIM              </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2BRN">SHUKOR BIN ABD RAZAK                    </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/60rQ">MOHD SHAHRIZAL BIN SUNAR                </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/R963">MOHD YAZID BIN IDRIS                    </a></td>
+                                            <td></td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/0GGn">FARHAN BIN MOHAMED                      </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/7yGE">ADILA FIRDAUS BINTI ARBAIN</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Rr4d">AHMAD NAJMI BIN AMERHAIDER NUAR</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/6qaY">SEAH CHOON SEN</a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/XKN3">MOHD. ZAMRI BIN OSMAN</a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2Bwo">HASLINA BINTI HASHIM                    </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/wqBJ">SITI ZAITON BT. MOHD HASHIM             </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/lq7y">SARINA BINTI SULAIMAN                   </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/VKvd">NORHAIDA BINTI MOHD SUAIB                 </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Ajv7">YUSLIZA BINTI YUSOFF</a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/wdpn">NOR AZIZAH ALI                          </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/a9n6">SHARIN HAZLIN BINTI HUSPI</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/6yWr">CHAN WENG HOWE</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/AnQd">PANG YEE YONG</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2yWo">NIES HUI WEN</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ag9w">NUR HALIZA BINTI ABDUL WAHAB</a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/EVYN">MASITAH BT GHAZALI </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/WzOO">MOHD ADHAM BIN ISA</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/jnwK">NAOMIE BT SALIM                         </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/609a">ANAZIDA BINTI ZAINAL                    </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/62nA">MD. SAH BIN HJ. SALAM                   </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/yZBM">NOORFA HASZLINNA BINTI MUSTAFFA         </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ydrv">MOHD FO&#x27;AD BIN ROHANI                   </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Z72j">NOR ANITA FAIROS BINTI ISMAIL           </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/62KR">NOR AZMAN BIN ISMAIL                    </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/1J30">WAN MOHD NASIR BIN WAN KADIR</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/q71q">MOHD RAZAK BIN SAMINGAN                 </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ANNX">NOR ERNE NAZIRA BINTI BAZIN             </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/99yv">NOR HAIZAN BINTI MOHAMED RADZI             </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/VZZJ">ZURIAHATI BINTI MOHD YUNOS              </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/0O02">NORIZAM BIN KATMON                      </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/kZzp">HASWADI BIN HASAN                       </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ANXR">HAZA NUZLY BIN ABDULL HAMED</a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Wzdo">NOR AZIZAH BINTI SA&#x27;ADON</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/N8w1">SHAFAATUNNUR BINTI HASAN</a></td>
+                                            <td>Cyber Physical System (CPS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/rA7D">JUMAIL BIN TALIBA                       </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/XK13">JOHANNA BINTI AHMAD</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Dza8">GOH EG SU</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/l7qa">NOOR HIDAYAH BINTI ZAKARIA</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/OA0b">FARKHANA BINTI MUCHTAR</a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/6q6k">MUHAMMAD LUQMAN BIN MOHD SHAFIE</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/j7pB">ALIF RIDZUAN BIN KHAIRUDDIN</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/MnBl">FAZLIATY EDORA BINTI FADZLI</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Vza4">MUHAMMAD KHATIBSYARBINI</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/qGVQ">MUHAMMAD ZAFRAN BIN MUHAMMAD ZALY SHAH</a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/8g87">NURFAZRINA BINTI MOHD ZAMRY</a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/MW5l">KAMALRULNIZAM BIN ABU BAKAR             </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/p80v">ISMAIL FAUZI BIN ISNIN                  </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/WwO9">LIZAWATI BINTI MI YUSUF                 </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/99BE">JOHAN BIN MOHAMAD SHARIF                </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/d6ll">RASHIDAH BINTI KADIR                    </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2BJX">RADZIAH BINTI MOHAMAD                   </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/bbRQ">NORAFIDA BTE ITHNIN                     </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/XDlk">FIROZ BIN YUSUF PATEL DAWOODI           </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ABvX">ROZILAWATI BINTI DOLLAH @ MD. ZAIN      </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/RmlN">ROLIANA BINTI IBRAHIM                   </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/DMpl">NORSHAM BINTI IDRIS                     </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/WwDj">ZURAINI BINTI ALI SHAH                  </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/0q1Y">MOHD. MURTADHA BIN MOHAMAD              </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/jdKJ">RAJA ZAHILAH BINTI RAJA MOHD RADZI      </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/b7jJ">MUHALIM BIN MOHAMED AMIN                </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/yyra">NUR ZURAIFAH SYAZRAH BINTI OTHMAN</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/3J1d">SITI HAJAR BINTI OTHMAN                 </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2B97">NORAINI BINTI IBRAHIM                   </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/G7KA">AHMAD FARIZ BIN ALI                     </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/R943">SURIATI BINTI SADIMON                   </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2bKZ">SHAHLIZA BINTI ABD HALIM                </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/10mr">MUHAMAD RAZIB BIN OTHMAN                </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/r543">AJUNE WANIS BINTI ISMAIL</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/3J2z">ZALMIYAH BINTI ZAKARIA                  </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/v1l1">HISHAMMUDDIN BIN ASMUNI @ HASMUNI       </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/lqna">AIDA BINTI ALI                          </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Kw5z">RUHAIDAH BINTI SAMSUDIN                 </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/DM5E">HAIRUDIN BIN ABDUL MAJID                </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/b7dz">ARYATI BINTI BAKRI                      </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/zBN9">MARINA BINTI MD ARSHAD                  </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/zzlE">HAZINAH BINTI KUTTY MAMMI               </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/Xmqj">MOHD SHAHIZAN BIN OTHMAN                </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/EknN">MUHAMMAD IQBAL TARIQ BIN IDRIS</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/XKO1">IZYAN IZZATI BINTI KAMSANI</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/6qpY">TARMIZI BIN ADAM</a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/9Xrv">NUR EILIYAH @ WONG YEE LENG</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ZzJo">MD. ASRI BIN NGADI                      </a></td>
+                                            <td>Pervasive Computing (PCRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/95K3">MUHAMMAD ALIIF BIN AHMAD</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/XKkv">SIM HIEW MOI</a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/gWzV">JAMILAH BINTI MAHMOOD</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/50ga">AHMAD FADHIL BIN YUSOF</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/yd2a">AZLAN BIN MOHD ZAIN                     </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/4lzE">CIK SUHAIMI BIN YUSOF                   </a></td>
+                                            <td>Virtual, Visualization and Vision (UTM ViCubeLab)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/MMMX">ROHAYANTI BINTI HASSAN                  </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/62yY">AZURAH BTE A SAMAH                      </a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/2yag">LAYLA RASHEED ABDALLAH HASAN</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/b7q4">MAHEYZAH BINTI SIRAT @ MD SIRAJ         </a></td>
+                                            <td>Information Assurance and Security Research Group (IASRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/4lbz">DAYANG NORHAYATI BTE. ABANG JAWAWI      </a></td>
+                                            <td>Software Engineering Research Group (SERG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/R92l">MOHAMAD SHUKOR BIN TALIB                </a></td>
+                                            <td>Applied Industrial Analytics (ALIAS)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="/Scholar/ScholarInfoDetails/ZZEN">SHAHIDA BINTI SULAIMAN</a></td>
+                                            <td>Intelligent Informatics Research Group (IIRG)</td>
+                                            <td>FACULTY OF COMPUTING</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                </div> <!-- container-fluid -->
+            </div>
+            <!-- End Page-content -->
+
+            <footer class="footer">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            © 2022  <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <!-- end main content-->
+
+    </div>
+    <!-- END layout-wrapper -->
+    <!-- JAVASCRIPT -->
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+
+    <!-- App js -->
+    <script src="/assets/js/app.min.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+         
+    <script>
+    var kod_fakulti = '28';
+    $(document).ready(function() {
+        ListScholarFacultyDatatable = $('#ListScholarFacultyDashboard').DataTable({
+            processing: true,
+            searching: true,
+            sorting: false,
+            paging: true,
+            pageLength: 10,
+            lengthChange: false,
+            info: false,
+            responsive: true
+        });
+
+        $.ajax({
+            type: "POST",
+            url : '/Scholar/FacultyGetSenaraiStafAkademik?id='+kod_fakulti,
+        }).done(function (data) {
+            console.log(data);
+
+            var newArrayStafAkademik = [];
+            data.data.forEach(function(elm, i) {
+                $newObject = {
+                    label:  data.data[i].GROUP_STAFF,
+                    value:  data.data[i].TOTAL_STAFF
+                }
+
+                newArrayStafAkademik.push($newObject);
+            })
+            var Morrris_Staf_Akademik = Morris.Donut({
+                element: 'staf_akademik_chart_faculties',
+                data: newArrayStafAkademik,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d','#1ab394', '#ed0c0c','#FF5733', '#FFBD33','#193C77','#39FF33','#197754','#541977','#1FE874']
+            });
+
+            Morrris_Staf_Akademik.options.data.forEach(function(label, i) {
+                var legendItem = $('<span></span>').text( label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Morrris_Staf_Akademik.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendAcademicStaff_Faculties').append(legendItem)
+            });
+
+            var totalStafAkademik = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalStafAkademik += data.data[i].TOTAL_STAFF << 0;
+            }
+            $("#TotalStafAkademik").append(totalStafAkademik);
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url : '/Scholar/FacultyGetSenaraiVerifiedPublication?id='+kod_fakulti,
+        }).done(function (data) {
+            console.log(data);
+
+            var newArrayVerifiedPublication = [];
+            data.data.forEach(function(elm, i) {
+                $newObject = {
+                    label:  data.data[i].PUBLICATION_TYPE,
+                    value:  data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayVerifiedPublication.push($newObject);
+            })
+            var Morris_VerifiedPublication_Chart = Morris.Donut({
+                element: 'verified_publication_chart_Faculties',
+                data: newArrayVerifiedPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733',
+                    '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977',
+                    '#1FE874', '#1F93E8', '#D91FE8', '#6BE81F', '#1FE89C',
+                    '#E81F62','#E8401F','#E8A41F','#E81F59','#CC0B83']
+            });
+
+            Morris_VerifiedPublication_Chart.options.data.forEach(function(label, i) {
+                var legendItem = $('<span></span>').text( label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Morris_VerifiedPublication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendVerifiedPublicationFaculties').append(legendItem)
+            });
+
+            var totalPublication = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalPublication += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublication").append(totalPublication);
+
+        }).fail(function(){
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url : '/Scholar/Faculty_GetPrincipalInvestigator?id='+kod_fakulti,
+        }).done(function (data) {
+            console.log(data);
+
+            var newArrayPrincipalInvestigator = [];
+            data.data.forEach(function(elm, i) {
+                $newObject = {
+                    label:  data.data[i].FUND_NAME,
+                    value:  data.data[i].BIL_FUND
+                }
+
+                newArrayPrincipalInvestigator.push($newObject);
+            })
+            var Morris_PrincipalInvestigator_Chart = Morris.Donut({
+                element: 'principal_investigator_chart_faculties',
+                data: newArrayPrincipalInvestigator,
+                resize: true,
+                colors: ['#FFBD33', '#193C77', '#39FF33', '#197754', '#541977']
+            });
+
+            Morris_PrincipalInvestigator_Chart.options.data.forEach(function(label, i) {
+                var legendItem = $('<span></span>').text( label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Morris_PrincipalInvestigator_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPrincipalInvestigatorFaculties').append(legendItem)
+            });
+
+            var totalFund = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalFund += data.data[i].BIL_FUND << 0;
+            }
+            $("#TotalFund").append(totalFund);
+        }).fail(function(){
+
+        });
+
+    });
+    </script>
+
+</body>
+
+</html>

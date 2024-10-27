@@ -1,0 +1,2447 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : PROF. MADYA DR. RADZIAH BINTI MOHAMAD                    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>PROF. MADYA DR. RADZIAH BINTI MOHAMAD                   </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PROFESOR MADYA (DS54)
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=2BJX"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:radziahm@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>radziahm@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/210" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Software Engineering Research Group (SERG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=16425934200" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">SOFTWARE ENGINEERING; SERVICE-ORIENTED COMPUTING; SOFTWARE REUSE; QUALITY ASSURANCE; JAVA PROGRAMMING; SOFTWARE DEVELOPMENT; ONTOLOGY; SOFTWARE; ROBOTICS; WEB DEVELOPMENT; EMBEDDED SYSTEMS; ONTOLOGIES</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">48</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">100</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">44</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">5</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">5</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">44</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">46</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">7</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">16</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>Adaptive Test Cases Selection Model for Deep Learning System<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Fundamental Research </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ontology-Based Learning Analytics Framework for Students&#x2019; Digital Competencies Discovery.<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Novel Multi-Layer Transformer Model in Producing Prioritized Non-Trivial Mutants for Effective and Affordable Software Mutation Testing<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW SEGMENTATION AND LOCALIZATION METHOD FOR IMPROVING IRIS RECOGNITION IN LESS COOPERATIVE ENVIRONMENTS <br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Self Adaptive Service Discovery Theoretical Framework for Dynamic Mobile Environment<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SOFTWARE TESTING AND SOFTWARE MAINTENANCE OF JOHOR STATE LEGISLATIVE ASSEMBLY MANAGEMENT INFORMATION SYSTEM (e-ADUN)<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INDEPENDENT VALIDATION AND VERIFICATION (IV &amp; V) MAINTENANCE TESTING OF SMALL AND MEDIUM ENTERPRISE HIGH IMPACT PROGRAMME 1 (SME HIP 1) INTEGRATION PROJECT<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PELAKSANAAN KAJIAN PENAMBAHBAIKAN PROSES PERNIAGAAN UNTUK JABATAN KEHAKIMAN MAHKAMAH SYARIAH MALAYSIA NEGERI JOHOR<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PELAKSANAAN KAJIAN PENAMBAHBAIKAN PROSES PERNIAGAAN UNTUK BADAN KAWAL SELIA AIR JOHOR (BAKAJ)<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ADAPTIVE LEARNING FRAMEWORK USING EDUCATIONAL ROBOTICS FOR COMPUTATIONAL THINKING EDUCATION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM High Impact Research                                                                                                                                                                                                                                       </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Analyzing Findings and Developing Recommendations Related to Software Quality Assurance (SQA) Issues in the Independent Verification and Validation (IV&amp;V) Reports of SME HIP1 Integration Project<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A new deductive reasoning of mutant generation in metamorphic testing<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ontology-based Mobile Web Service Discovery Model With Non Functional Properties<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>UTM-TDR 7.1 (T1): Innovation Architecture for Patient Navigation Program Using Software Reuse Approach<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Transdiciplinary Research Grant                                                                                                                                                                                                                            </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AUTOMATED TEST CASE GENERATION FROM NATURAL LANGUAGE REQUIREMENTS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ontology-Based Service Discovery Model for Prediction, Prevention and Control of Mosquito Vector-Borne Disease System<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Software Usability Evaluation Model of Multi-Platforms Application for Dengue-Entomological Surveillance System<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Search-Based Mobile Applications Test Data Generation Model<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTEGRATION OF MEETING-FLOW (MF) APPROACH IN GENERIC PROJECT-ORIENTED PROBLEM-BASED LEARNING (POPBL) FRAMEWORK TO SUPPORT COLLABORATIVE LEARNING IN TEACHING REQUIREMENTS ENGINEERING COURSE<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">Dana Pembangunan Pengajaran </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A COMMUNICATION FOR BEHAVIOURAL IMPACT (COMBI) BEHAVIOURAL CHANGE MODEL FOR DENGUE SURVEILLANCE IN MALAYSIA<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kajian Halatuju dan Impak Sistem MyGrants<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MODEL PERKONGSIAN ILMU KE ARAH KELESTARIAN MODAL INSAN LUAR BANDAR (KAMIL) MELALUI CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE) UTM-KEJORA: ICARE MY AIM &amp; ICARE MY ENGLISH<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KREATIVITI DAN INOVASI MELALUI PENGATURCARAAN LIGA ROBOTIK ICARE UTM-KEJORA : KEMAHIRAN PENYELESAIAN MASALAH<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Centre for Advancement in Rural Education Informatics: iCARE My English Programme<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ADAPTING MOODLE ELEARNING MODULES IN THE GENERIC FRAMEWORK OF PROBLEM-BASED LEARNING (PBL) AND PROJECT-ORIENTED (PO) INTEGRATION APPROACH FOR THE CORE SOFTWARE ENGINEERING COURSES<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW CLOUD-BASED MOBILE WEB SERVICE DISCOVERY FRAMEWORK<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A COMPONENT-BASED MOBILE ROBOTICS  APPLICATION TOOLBOX FOR TEACHING PROGRAMMING SKILL<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN ANALYTICAL MODEL FOR RELIABILITY ESTIMATION USING INTEGRATED TASKS AND RESOURCES<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Adaptive Mobile Web Service Discovery Model<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Component-based Software Engineering Approach for Automated Embedded Precision Farming Systems<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Simplifying technologies for the disadvantage groups<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KE ARAH KELESTARIAN PEMBANGUNAN PENDIDIKAN LUAR BANDAR MELALUI LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA) DAN CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE)<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Semantic Service Discovery Framework in Pervasive Computing<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Modeling Approach for Variability Integration at Requirements and Architectural Level in Software Product Line<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>POLICY-BASED MANAGERS COORDINATION FOR AN ADAPTIVE ARCHITECTURAL FRAMEWORK<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SYNTHETIC EXPERIMENTATION IN EVALUATING THE USABILITY QUALITY FACTOR OF REQUIREMENT CHANGE PROPAGATION PROCESS MODEL<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HCI and SE Integration: analyzing the emphasis of usability in the software engineering syllabus at the academic institutions in Malaysia<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Component-Based Methodology for Embedded Real-Time Software Development of Robotic  Wheelchair Systems<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Service-Oriented Reliability Evaluation Model<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Design Framework of Multi Agent Software Based On Patterns<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Use of Formal  Methods for Enbedded Real-Time System<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Experimental Evaluation of Hybrid Software Engineering Methodology for Embedded Firmware Development on Intelligence Mobile Robot<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1998</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/144645">Adaptive Learning Framework For Learning Computational&#xA;Thinking Using Educational Robotics</a>
+
+                                            <br />
+                                                COMPUTER APPLICATIONS IN ENGINEERING EDUCATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/145500">High Performance Computing Approach For Future Warfare</a>
+
+                                            <br />
+                                                EMERGING DISRUPTIVE TECHNOLOGIES IN MILITARY<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/145501">Ambient Computing Approach For Military Education Training</a>
+
+                                            <br />
+                                                EMERGING DISRUPTIVE TECHNOLOGIES IN MILITARY<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/144807">Fearless - Next-Gen Solution For Preventing Sexual Harassment And Physical Violation</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/144808">Ontology-Based Negative Selection Algorithm For Pairwise Testing</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/143935">Containerized Event-Driven Microservice Architecture</a>
+
+                                            <br />
+                                                BAGHDAD SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/142186">Flexible Curriculum For Talents&#x27; Future Career Growth</a>
+
+                                            <br />
+                                                E-PROCEEDING OF NEW ACADEMIA LEARNING INNOVATION (NALI) 2023 EXHIBITION &amp; COMPETITION <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">2ND UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/137623">Enhanced Web Services Recommendation Algorithm Based On User History</a>
+
+                                            <br />
+                                                THE 9TH INTERNATIONAL GRADUATE CONFERENCE ON ENGINEERING SCIENCE &amp; HUMANITY 2022 (IGCESH 2022)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/137627">Genetic Programming Based Self-Adaptive Feature Selection Model For Rumor Detection</a>
+
+                                            <br />
+                                                THE 9TH INTERNATIONAL GRADUATE CONFERENCE ON&#xA;ENGINEERING, SCIENCE AND HUMANITIES<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/130798">University Examination Timetabling Using A Hybrid Black Hole Algorithm</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON INFORMATICS VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/134527">Collaborative Assignment And Project For Teaching Embedded And Real-Time Software Engineering Course</a>
+
+                                            <br />
+                                                AIP CONFERENCE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/128123">Self-Adaptive Mobile Web Service Discovery Framework For Dynamic Mobile Environment</a>
+
+                                            <br />
+                                                JOURNAL OF SYSTEMS AND SOFTWARE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/128505">Self-Adaptive Mobile Web Service Discovery Approach Based On Modified Negative Selection Algorithm</a>
+
+                                            <br />
+                                                NEURAL COMPUTING &amp; APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/130134">Nurturing Secondary School Student Computational Thinking Through Educational Robotics</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF EMERGING TECHNOLOGIES IN LEARNING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/126437">Web Service Discovery Approaches For Dynamic Mobile Environment: A Systematic Literature Review</a>
+
+                                            <br />
+                                                 INTERNATIONAL JOURNAL OF E-SERVICES AND MOBILE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/121042">Context Ontology For Smart Healthcare Systems</a>
+
+                                            <br />
+                                                LECTURE NOTES ON DATA ENGINEERING AND COMMUNICATIONS TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/121043">Effective Web Service Classification Using A Hybrid Of Ontology Generation And Machine Learning Algorithm</a>
+
+                                            <br />
+                                                LECTURE NOTES ON DATA ENGINEERING AND COMMUNICATIONS TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/126632">Adaptive Learning Management System For Nurturing Computational Thinking Concepts Through Educational Robotic</a>
+
+                                            <br />
+                                                PROCEEDING OF NEW ACADEMIA LEARNING INNOVATION&#xA;(NALI) 2021 EXHIBITION &amp; COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/121041">Context Ontology For Smart Healthcare Systems</a>
+
+                                            <br />
+                                                LECTURE NOTES ON DATA ENGINEERING AND COMMUNICATIONS TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/118807">Self-Adaptive Mobile Web Service Categorization Approach For Self-Adaptive Discovery</a>
+
+                                            <br />
+                                                KSII THE 12TH INTERNATIONAL CONFERENCE ON INTERNET (ICONI) 2020<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/112701">Multi-Aspects Intelligent Requirements Prioritization Technique For Value Based Software Systems</a>
+
+                                            <br />
+                                                COMMUNICATIONS IN&#xD;&#xA;COMPUTER AND&#xD;&#xA;INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/110053">Search Space Reduction Approach For Self-Adaptive Web Service Discovery&#xD;&#xA;In Dynamic Mobile Environment</a>
+
+                                            <br />
+                                                ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/106070">Context-Aware Ontology For Dengue Surveillance</a>
+
+                                            <br />
+                                                ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/110205">Context Ontology In Mobile Applications</a>
+
+                                            <br />
+                                                JOURNAL OF INFORMATION AND COMMUNICATION TECHNOLOGY (JICT) <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/118294">Optimal Path Test Data Generation Based On Hybrid Negative Selection Algorithm And&#xA;Genetic Algorithm</a>
+
+                                            <br />
+                                                PLOS ONE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/105945">Requirements Prioritization Aspects Quantification For Value-Based Software Developments</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/104508">Context-Aware Ontology And Web Services Discovery For Distributed&#xD;&#xA;Embedded Real-Time Systems</a>
+
+                                            <br />
+                                                MALAYSIAN JOURNAL OF COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/98001">Playground: An Android Application For Finding Music Similarity</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/98003">Design And Development Of Cross Platform Volunteer Mobile Application For Kechara Soup Kitchen</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/97997">Eatee Mobile Based Food Delivery System</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/94929">Incorporation Of Collaborative Project In Project-Oriented Problem-Based Learning For Software Engineering Courses</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION (NALI) SYMPOSIUM 2018<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/98149">Negative Selection Approach For Optimizing Of Pairwise Testing </a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF&#xD;&#xA;SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/101880">Negative Selection Approach For Equivalent Mutant Detection</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/95484">Ontology Of Mutation Testing For Java Operators</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/98146">Requirements Prioritization Aspects For Value-Based&#xD;&#xA;Software Developments</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF&#xD;&#xA;SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/98142">Adequacy Based Test Data Generation Using Hybrid&#xD;&#xA;Negative Selection Algorithm And Genetic Algorithm&#xD;&#xA;Nsa-Ga</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF&#xD;&#xA;SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/93915">A Study On Automated Mutation Testing For Java Applications: Security Aspect</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDING: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/91786">An Empirical Evaluation Of Framework For&#xD;&#xA;Regression Test Case Selection: Weighted&#xD;&#xA;Average Scoring</a>
+
+                                            <br />
+                                                THE 9TH INTERNATIONAL CONFERENCE ON INTERNET&#xD;&#xA;(ICONI 2017)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/85261">Effective Regression Test Case Selection: A Systematic Literature Review</a>
+
+                                            <br />
+                                                ACM COMPUTING SURVEYS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/84941">Ontology-Based Service Discovery Framework For Dynamic Environments</a>
+
+                                            <br />
+                                                IET SOFTWARE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/87550">Learning Environment For Software Product Lines Online Learning Applications&#xD;&#xA;</a>
+
+                                            <br />
+                                                2017 8TH INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY (ICIT)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/93945">A Comparative Study On Mutation Analysis For Java Applications</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/88212">A Test Case Selection Framework And Technique:&#xD;&#xA;Weighted Average Scoring Method</a>
+
+                                            <br />
+                                                JOURNAL OF TELECOMMUNICATION, ELECTRONIC AND COMPUTER ENGINEERING (JTEC)&#xD;&#xA;&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/84140">Automated Path Testing Using The Negative Selection Algorithm</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTATIONAL VISION AND ROBOTICS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/75794">Cultivating Communication And Teamwork Skills To Undergraduates In Co-Curricular Service Learning</a>
+
+                                            <br />
+                                                REGIONAL CONFERENCE IN ENGINEERING EDUCATION 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/80647">Incorporation Of Generic Project-Oriented Problem Based Learning (Popbl) Framework Into Software Engineering (Se) Education</a>
+
+                                            <br />
+                                                INNOVATIVE PRACTICES IN HIGHER EDUCATION EXPO 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/84266">Comparative Evaluation Of&#xD;&#xA;Automated Unit Testing Tool For Php</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF&#xD;&#xA;SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/84264">Comparative Evaluation Of Automated User&#xD;&#xA;Acceptance Testing Tool For Web Based Application</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF&#xD;&#xA;SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/77937">Application Of Negative Selection Algorithm (Nsa) For Test Data Generation Of Path Testing</a>
+
+                                            <br />
+                                                APPLIED SOFT COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/77556"></a>
+
+                                            <br />
+                                                PENGATURCARAAN BERSTRUKTUR MENGGUNAKAN C&#x2B;&#x2B; <br />
+                                            <span class="badge rounded-pill  bg-info">Book (Text)</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/73997">Trade-Off Between Automated And Manual Testing: A Production Possibility Curve Cost Model</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/74123">Essential Knowledge Transfer Process Model To Support Disaster Management</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/76018">A New Framework For Matching Semantic Web Service Descriptions Based On Owl-S Services</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/67496"></a>
+
+                                            <br />
+                                                PROGRAMMING TECHNIQUE I C&#x2B;&#x2B;<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/67493"></a>
+
+                                            <br />
+                                                PROGRAMMING TECHNIQUE II C&#x2B;&#x2B;<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/15576">A Systematic Composite Service Design&#xD;&#xA;Modeling Method Using Graph-Based Theory</a>
+
+                                            <br />
+                                                PLOS ONE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/66108">Ontology Validation Algorithm On Data Driven Approach And Vocabulary Aspect</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/72294"></a>
+
+                                            <br />
+                                                PROJEK ICARE PUSAT KEMAJUAN DALAM INFORMATIK PENDIDIKAN LUAR BANDAR (IPKPLB)<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/69953">Memupuk Kreativiti Dan Inovasi&#xD;&#xA;Melalui Robokar: Kajian Kes Icare</a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/68320">Test Case Selection With Mutations And Test Case Effectiveness</a>
+
+                                            <br />
+                                                THE 7TH INTERNATIONAL CONFERENCE ON INTERNET (ICONI) 2015.<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/75766">Tcg Algorithm Approach For Uml Sequence Diagram</a>
+
+                                            <br />
+                                                9TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE, MYSEC 2015<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/66110">Service-Oriented Design Measurement And Theoretical Validation</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/66109">Semantic-Based Discovery Framework For Web Services In Mobile Computing Environment</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/14598">Towards An Essential Knowledge Transfer Process Model In The Flood Management Domain</a>
+
+                                            <br />
+                                                JOURNAL OF ENGINEERING AND APPLIED SCIENCES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/69686">Kepentingan Program Pendedahan Etika Dan Keselamatan Dalam Talian (Peka) Bagi Pelajar Sekolah</a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/3791">A Systematic Literature Review Of Test Case Generator For Embedded Real Time System</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/9420">Analysing The Emphasis Of Usability In Software&#xD;&#xA;Engineering Syllabus In Malaysian Higher Institutions</a>
+
+                                            <br />
+                                                2014 8TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE&#xD;&#xA;(MYSEC)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/9421">Similarity Algorithm For Evaluating The Coverage Of&#xD;&#xA;Domain Ontology For Semantic Web Services</a>
+
+                                            <br />
+                                                2014 8TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE&#xD;&#xA;(MYSEC)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/9423">Metrics For Evaluating The Quality Of Service-Oriented Design</a>
+
+                                            <br />
+                                                2014 8TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE&#xD;&#xA;(MYSEC)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/9416">Requirements Prioritization Techniques And Different Aspects For Prioritization: A Systematic Literature Review Protocol</a>
+
+                                            <br />
+                                                2014 8TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE&#xD;&#xA;(MYSEC)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/9418">Cloud-Based Mobile Web Service Discovery Framework With Semantic Matchmaking Approach</a>
+
+                                            <br />
+                                                2014 8TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE&#xD;&#xA;(MYSEC)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/6486">Automatic Test Case Generation For Structural Testing&#xD;&#xA;Using Negative Selection Algorithm</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 1ST INTERNATIONAL CONFERENCE OF RECENT TRENDS IN INFORMATION AND COMMUNICATION TECHNOLOGIES (IRCIT 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/5929">A Review On Service Selection For Web Service Composition In Cloud&#xD;&#xA;Computing Environment</a>
+
+                                            <br />
+                                                International Conference on Engineering and Applied Science (2014 ICEAS)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/63696">Multi-Aspects Based Requirements Priortization Technique For Value-Based Software Developments</a>
+
+                                            <br />
+                                                PROCEEDINGS - 2014 INTERNATIONAL CONFERENCE ON EMERGING TECHNOLOGIES, ICET 2014<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/5079">Ontouji-Ontology To Evaluate Domain Ontology For Semantic Web Services Description</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI (SCIENCES AND ENGINEERING)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/12123">Systematic Mapping Study In Automatic&#xD;&#xA;Test Case Generation</a>
+
+                                            <br />
+                                                FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/6518">Ontology For Autonomous Mobile Robot&#xD;&#xA;System</a>
+
+                                            <br />
+                                                NEW TRENDS IN SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES <br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/6485">Systematic Mapping Study In Automatic Test Case Generation</a>
+
+                                            <br />
+                                                NEW TRENDS IN SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/3806">Service Discovery Framework For Distributed Embedded Real-Time Systems</a>
+
+                                            <br />
+                                                HANDBOOK OF RESEARCH ON EMERGING ADVANCEMENTS AND TECHNOLOGIES IN SOFTWARE ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/4126">Qos Measurement Of Workflow-Based Web Service&#xD;&#xA;Compositions Using Colored Petri Net</a>
+
+                                            <br />
+                                                SCIENTIFIC WORLD JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/6721">Ontology For Autonomous Mobile Robot System</a>
+
+                                            <br />
+                                                FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/13559"></a>
+
+                                            <br />
+                                                OBJECT ORIENTED PROGRAMMING USING JAVA<br />
+                                            <span class="badge rounded-pill  bg-info">Monograph</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/29334">Service Discovery Frameworks For Dynamic Environments: An Overview And Limitations</a>
+
+                                            <br />
+                                                HANDBOOK OF RESEARCH ON EMERGING ADVANCEMENTS AND TECHNOLOGIES IN SOFTWARE ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/2085">Service Based Meta-Model For The Development Of Distributed Embedded Real-Time Systems </a>
+
+                                            <br />
+                                                REAL-TIME SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/20487">Quality Of Service Ontology Languages For Web Services Discovery: An Overview And Limitations</a>
+
+                                            <br />
+                                                LECTURE NOTES IN COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/3804">Wsmo-Lite Based Web Service Discovery Algorithm For Mobile Environment</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/2098">Critical Evaluation Of Two Uml Profiles For Distributed Embedded Real-Time Systems Design</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/14671">Comparative Evaluation Of Automatic Test Case Generation Methods</a>
+
+                                            <br />
+                                                1ST TECHNOLOGY, EDUCATION, AND SCIENCE INTERNATIONAL CONFERENCE (TESIC) 2013<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/3792">Service Identification Guideline For Developing Distributed Embedded Real-Time Systems</a>
+
+                                            <br />
+                                                IET SOFTWARE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/72816">A Systematic Literature Review To Identify The Issues In Bidirectional Model Transformation</a>
+
+                                            <br />
+                                                PROCEEDINGS - 2010 2ND WRI WORLD CONGRESS ON SOFTWARE ENGINEERING, WCSE 2010<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/54844">Formalization Of Uml Class Diagram Using Description Logics</a>
+
+                                            <br />
+                                                PROCEEDINGS 2010 INTERNATIONAL SYMPOSIUM ON INFORMATION TECHNOLOGY - SYSTEM DEVELOPMENT AND APPLICATION AND KNOWLEDGE SOCIETY, ITSIM&#x27;10<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56336">-</a>
+
+                                            <br />
+                                                Towards Evaluating Service-Oriented Architecture<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56337">-</a>
+
+                                            <br />
+                                                Pattern-Oriented Framework For Agent-Oriented Multi Robot System<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56334">-</a>
+
+                                            <br />
+                                                Lab Book &#xE2;&#xBF;&#xBF; Object-Oriented Programming Using Java<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56339">-</a>
+
+                                            <br />
+                                                CONSISTENCY VERIFICATION OF BIDIRECTIONAL MODEL TO MODEL TRANSFORMATION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56338">-</a>
+
+                                            <br />
+                                                ANALYSIS ON THE MODEL CHECKING AGENT FOR SMS MANAGEMENT SYSTEM VERIFICATION USING TEMPORAL LOGIC<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56340">-</a>
+
+                                            <br />
+                                                Design Framework Of Multi-Agent Software Based On Patterns<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56335">-</a>
+
+                                            <br />
+                                                Lab Book &#xE2;&#xBF;&#xBF; Programming Technique II C&#x2B;&#x2B;<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/36671">Pattern-Orientad Approach For Multi Agent Software Development: A Conceptual Model</a>
+
+                                            <br />
+                                                Advances in Software Engineering: Research &amp; Practice<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/2BJX/56353">Pattern-Oriented Design For Multi-Agent System: A Conceptual Model&#xA0; </a>
+
+                                            <br />
+                                                Journal of Object Technology <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/Oaap"> AGENT-BASED SMART WHEELCHAIR SYSTEM DESIGN FRAMEWORK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/EJr"> COMPONENT BASED ANALYSIS PATTERNS FOR AUTONOMOUS MOBILE ROBOT (AMR) SOFTWARE DEVELOPMENT</a></td>
+                                        <td>MY-185333-A</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/vaJ"> DESIGN FRAMEWORK FOR AGENT-ORIENTED MULTI-ROBOT SYSTEM BASED ON PATTERNS</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/bZE9"> INTEGRATED COLLABORATIVE PROJECT FOR SOFTWARE ENGINEERING SE- PROJECT-ORIENTED PROBLEM-BASED LEARNING (POPBL) APPROACH</a></td>
+                                        <td>LY2019008989</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/ABY2"> NON-FUNCTIONAL PROPERTIES MODEL FOR MOBILE WEB SERVICES</a></td>
+                                        <td>LY2018002022</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/lq6o"> MULTI-PLATFORMS APPLICATION FOR DENGUE-ENTOMOLOGICAL SURVEILLANCE SYSTEM</a></td>
+                                        <td>LY2018001350</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/plAY"> HYBRID NEGATIVE SELECTION ALGORITHM AND GENETIC ALGORITHM FOR PATH TEST DATA GENERATION</a></td>
+                                        <td>LY2017001233</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/B1lB"> MOBILE WEB SERVICES DISCOVERY FRAMEWORK AND ALGORITHM</a></td>
+                                        <td>LY2017001235</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/BOWB"> THE CONTAINERISED EVENT-DRIVEN MICROSERVICE FRAMEWORK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/AE12"> MICROCREDENTIAL UTM - MODUL PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/W78E"> [UTM MICRO-CREDENTIAL] - IRUL AND IRA ANIMATED CHARACTERS</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/pOEY"> [UTM MICRO-CREDENTIAL]  &#x2013; VIDEO ANIMASI BAGI PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK.</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/Ynqo"> ENHANCED WEB SERVICES LEVEL OF AGREEMENT SPECIFICATION</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/yK9W"> SERVICE DISCOVERY AND SELECTION ALGORITHM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/1jy"> ENMASE/AGENPOD2JADEX. A ROADMAP TO ENGINEER JADEX AGENTS ENMASE/AGENPOD</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/2BJX/Er7"> AGENTPOD: APPROACH TO DESIGN MULTI-AGENT SYSTEM BASED ON DESIGN PATTTERNS</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD WAQAR AZIZ </strong><br />
+                                                SERVICE-ORIENTED ANALYSIS AND DESIGN APPROACH FOR DISTRIBUTED EMBEDDED REAL-TIME SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2012</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>FURKH ZESHAN</strong><br />
+                                                QUALITY OF SERVICE AND CONTEXT-AWARE SERVICE DISCOVERY FRAMEWORK FOR DISTRIBUTED EMBEDDED REAL-TIME SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HOSSEIN NEMATZADEH BALAGATABI</strong><br />
+                                                ENHANCED METHODS FOR MEASURING QUALITY OF SERVICE AND CONGESTION FOR WORKFLOW-BASED WEB SERVICE COMPOSITIONS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ARAFAT ABDULGADER MOHAMMED ELHAG BABEKER</strong><br />
+                                                QUALITY MEASUREMENT MODEL FOR COMPOSITE SERVICE-ORIENTED DESIGN<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SHAYMA MUSTAFA MOHI-ALDEEN</strong><br />
+                                                SOFTWARE TEST DATA GENERATION METHOD FOR PATH TESTING USING HYBRID NEGATIVE SELECTION ALGORITHM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NOR AZIZAH BINTI SA&#x27;ADON</strong><br />
+                                                SEMANTIC-BASED MOBILE WEB SERVICE DISCOVERY FRAMEWORK WITH NON-FUNCTIONAL PROPERTIES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SYED RAFAQAT HUSSAIN SHAH KAZMI</strong><br />
+                                                MULTI-OBJECTIVE TEST CASE SELECTION TECHNIQUE FOR REGRESSION TESTING<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SALISU GARBA</strong><br />
+                                                SELF-ADAPTIVE MOBILE WEB SERVICES DISCOVERY FRAMEWORK FOR DYNAMIC MOBILE ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>FALAK SHER</strong><br />
+                                                MULTI-ASPECT REQUIREMENTS PRIORITIZATION TECHNIQUE FOR VALUE-BASED SOFTWARE DEVELOPMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2023</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>LI JUNHAN</strong><br />
+                                                EFFECTIVE FUZZY APPROACHES FOR DEEP LEARNING SYSTEM TEST CASE SELECTION A SYSTEMATIC LITERATURE REVIEW<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI ZULAIKHA BINTI MOHD ZUKI</strong><br />
+                                                SELF-ADAPTIVE ONTOLOGY-BASED FRAMEWORK FOR DYNAMIC SERVICE DISCOVERY&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>RUTAB MARRIAM</strong><br />
+                                                1.)RUMOUR DETECTION OVERS SOCIAL MEDIA&#xD;&#xA;2.)SELF-ADAPTIVE ONTOLOGY-BASED APPROACH FOR REAL-TIME NEWS ANALYTICS&#xD;&#xA;3.)&amp;NBSP;REAL-TIME ANALYTICS ON RUMORS: EVOLUTION, METHODS AND CHALLENGES&amp;NBSP;&#xD;&#xA;4)COMPREHENSIVE RUMOR MANAGEMENT STRATEGIES FOR SOCIAL MEDIA NEWS: A SYSTEMATIC LITERATURE REVIEW&#xD;&#xA;&amp;NBSP;&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NOR AZIZAH BINTI SA&#x27;ADON</strong><br />
+                                                SEMANTIC-BASED MOBILE WEB SERVICE DISCOVERY FRAMEWORK WITH NON-FUNCTIONAL PROPERTIES (NFP) ENHANCEMENT FOR MOBILE COMPUTING ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2009</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NURHAMIZAH BINTI MOHD HAMKA</strong><br />
+                                                INTEGRATED SEMANTIC BROWSER FOR (MAINTENANCE OF MILLS / HOSPITAL CHECKUP JOURNEY) ON MOBILE AUGMENTED REALITY BASED SOLUTION&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NABILAH BINTI KAMARUL BAHRIN</strong><br />
+                                                MODEL BASED TEST CASE GENERATOR APPROACH  FROM  UML SEQUENCE DIAGRAM<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>FARHANAH ATIQAH BINTI NORKI</strong><br />
+                                                AUTOMATED CONTEXT-BASED APPROACH FOR MOBILE APPLICATION TESTING&#xD;&#xA;&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI ZULAIKHA BINTI MOHD ZUKI</strong><br />
+                                                SELF-ADAPTIVE ONTOLOGY-BASED FRAMEWORK FOR DYNAMIC SERVICE DISCOVERY&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>EASTER VIVIANA ANAK SANDIN</strong><br />
+                                                AUTOMATED PAIRWISE TESTING APPROACH BASED ON CLASSIFICATION TREE MODELING AND NEGATIVE SELECTION ALGORITHM<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SHEROLWENDY ANAK SUALIM</strong><br />
+                                                ONTOLOGY BASED NEGATIVE SELECTION APPROACH FOR MUTATION TESTING<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : RADZIAH BINTI MOHAMAD                   " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : RADZIAH BINTI MOHAMAD                   " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : RADZIAH BINTI MOHAMAD                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : RADZIAH BINTI MOHAMAD                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = '2BJX';
+        var scopus_id = '16425934200';
+        var nama_pekerja = 'RADZIAH BINTI MOHAMAD                   ';
+        var no_pkrj = '7801';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

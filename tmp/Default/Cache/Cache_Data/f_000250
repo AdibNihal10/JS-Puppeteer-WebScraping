@@ -1,0 +1,2560 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : PROF. TS. DR. MD. ASRI BIN NGADI                       </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>PROF. TS. DR. MD. ASRI BIN NGADI                      </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PROFESOR (VK07)
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=ZzJo"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:dr.asri@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>dr.asri@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/206" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Pervasive Computing (PCRG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=24923511700" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">NETWORK &amp; SECURITY; AUTHENTICATION; SECURITY; WIRELESS COMMUNICATIONS; WIRELESS SENSOR NETWORK; CLOUD COMPUTING; WEB SCIENCE; SOCIAL NETWORK ANALYSIS; COMPUTER SECURITY AND IT FORENSICS; NETWORK SECURITY; INFORMATION SECURITY</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">45</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">98</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">73</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">7</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">8</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">73</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">15</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">12</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">35</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>A Formulation of Signature-Based Detection Algorithms with AES Encryption for Detecting HTTP Distributed Denial of Service Attack<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Novel Congestion Control Schemes for Enhancing Energy Efficiency in Named Data Networking-Based Wireless Mesh Networks for the Internet of Things<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Scalable Practical Byzantine Fault Tolerance (PBFT) Based on Cryptographic Enhancements<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Fundamental Research </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>LD-LOVE : Lightweight Distributed Location Verification Technique for Location-based Services in Vehicular Communication<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HIR 4.2 : SMART TRANSPORT AND LOGISTIC SYSTEMS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">High Impact Research Grant                                                                                                                                                                                                                                     </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Prototype of  Wearable Wireless Sensing for Specific Human Motions Disorder<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTERNET OF THINGS IN SMART AGRICULTURE FOR INCREASING PRODUCTIVITY BASED ON MARKET DRIVEN<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE TECHNIQUE OF GAIT RECOGNITION SYSTEM BASED ON ANOMALY ALGORITHM TO PREDICT FREEZING OF GAIT (FOG) IN PARKINSON DISEASE<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Anomaly-based Algorithm for Gait Analysis to Predict Freezing of Gait (FOG) in Parkinson&#x27;s Disease.<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Prototype of Android 6.0 Indoor Tracking Systems based on Intelligent Fusion WiFi/IMU Signals<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>IOT-BASED SCALABLE INTELLIGENT CENTRAL CONTROL SYSTEM FOR NUTRIENT MANAGEMENT IN RECIRCULATING HYDROPONIC CULTURE<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Context Centric Resource Aware Routing For Delay Tolerant Network<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Professional Development Research University</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>END-TO-END COHESIVE APPROACH FOR AGILE SOFTWARE DEVELOPMENT IN CLOUD COMPUTING ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>COLOUR CODE SCHEDULING IN BEACON SELECTION FRAMEWORK FOR MOBILE POSITIONING IN MULTIBLOCK WORKSPACE<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development of Embedded Interference Aware Wireless Mesh Router in High Speed Network<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Prototype Development Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Fundamental Study of Hybrid Unsupervised Machine Learning Model for Anomaly Intrusion Detection System<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SIMULATOR OF REHABILITATION PROCESS USING ARTIFICIAL HAND GRIPPER WITH SMART GLOVE<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Design and Development of League Championship Algorithm-Based Scheduling Technique for Grid Resource Provisioning Using Cloud System<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The prototype of Indoor Tracking Systems based on FM Radio<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Encouragement Grant                                                                                                                                                                                                                                            </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The prototype of  Smart Wheelchair Navigation and Controller using  non-invasive brain signal interface with FM Radio<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTERFERENCE AWARE CHANNEL ASSIGNMENT USING PARTIALLY OVERLAPPING CHANNELS IN MULTI CHANNEL MULTI RADIO WIRELESS MESH NETWORKS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Professional Development Research University</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A New algorithm of Peer-To-Peer Cooperative Video Streaming To Improve Video Streaming Performance Over Multimedia Social Network<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>LOCATION SERVICE PROTOCOL FOR VEHICULAR AD HOC NETWORKS IN URBAN ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTELLIGENT TRANSPORT SYSTEM: THE PROTOTYPE OF MOVABLE ROBOT CONTROL UNIT BASED ON BRAINWAVE SIGNAL INPUT.<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A FRAMEWORK FOR SECURING MANET FROM WORMHOLE ATTACK BASED ON AUTHENTICATION<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Exploratory Research Grant Scheme </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Algorithm of Dynamic Channel Assignment for Wireless Mesh Networks Environment<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>New Models for Vulnerability Analysis of Mobile Adhoc Network (MANET) Routing Protocol<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DESIGN OF INTERFERENCE AWARE ROUTING METRIC FOR MULTI- CHANNEL MULTI-RADIO WIRELESS MESH NETWORKS<br /><span class="badge rounded-pill  bg-info">SHORT TERM RESEARCH GRANT FOR ACADEMIC VISITORS</span> <span class="badge rounded-pill  bg-success">Academic Visitor                                                                                                                                                                                                                                               </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEVELOPMENT OF SECURE COMMUNICATION FOR E-GOVERNMENT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE ENHANCEMENT OF MOBILITY ALGORITHM FOR IMPROVING NETWORK COVERAGE IN WIRELESS NANOSENSOR NETWORKS BASED PARTICLE SWARM OPTIMIZATION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN AUTOMATED COUNTING APPLICATION FOR CELL DISORDERS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SMART DEFENSE-IN-DEPTH ON MOBILE WIRELESS AD HOC NETWORK<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE MOBILE UBIQUITOUS POSITIONING FOR UNMOVABLE PHYSICAL FACILITY TRACKING<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fundamental study on soft computing modelling of corrosion growth and reliability assessment in gas pipelines (Malaysian transmission lines)<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Secure Server Monitoring Using Covert Channel Technique<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Secure Server Monitoring Using Covert Channel Technique<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mobile Ad Hoc Network Hop Routing Algorithm<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Friend-Assisted Secure Autonomous Mobile Ad Hoc Networks<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Node Protection Against Malicious Accusation Attack in Mobile Ad-Hoc Network (MANET)<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Study on Advanced Statistical Analysis for Network Anomaly Detection<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>2000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development Of Collaboration Protocol Of Multi Agent In A Web Based Environment<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1996</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Secure Transaction Framework For Client-Server Based E-Commerce<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1996</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/141873">Intelligent Traffic Model For Unmanned Ground Vehicles Based On Dsdv-Aodv Protocol</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/141875">Enhanced Qos Routing Protocol For An Unmanned Ground Vehicle, Based On The Aco Approach</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/128978">A Cloud Computing-Based Modified Symbiotic Organisms Search Algorithm (Ai) For Optimal Task Scheduling</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/127365">Cbi4.0: A Cross-Layer Approach For Big Data Gathering For Active Monitoring And Maintenance In The Manufacturing Industry 4.0</a>
+
+                                            <br />
+                                                JOURNAL OF INDUSTRIAL INFORMATION INTEGRATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/127356">Education Exchange Storage Protocol: Transformation Into Decentralized Learning Platform</a>
+
+                                            <br />
+                                                FRONTIERS IN EDUCATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/127367">Big Data Acquired By Internet Of Things-Enabled Industrial Multichannel Wireless Sensors Networks For Active Monitoring And Control In The Smart Grid Industry 4.0</a>
+
+                                            <br />
+                                                DATA IN BRIEF<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/127812">Current Perspective Of Symbiotic Organisms Search Technique In Cloud Computing Environment: A Review</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/117847">A Survey Of Symbiotic Organisms Search Algorithms And Applications</a>
+
+                                            <br />
+                                                NEURAL COMPUTING &amp; APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/117939">Ffrp: Dynamic Firefly Mating Optimization Inspired Energy Efficient Routing Protocol For Internet Of Underwater Wireless Sensor Networks</a>
+
+                                            <br />
+                                                IEEE ACCESS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/117821">Loss Based Congestion Control Module For Health Centers Deployed By Using Advanced Iot Based Sdn Communication Networks</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF PARALLEL PROGRAMMING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/111570">An Authentication And Plausibility Model For Big Data Analytic Under Los And Nlos Conditions In 5g-Vanet</a>
+
+                                            <br />
+                                                SCIENCE CHINA INFORMATION SCIENCES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/113854">Convergence-Based Task Scheduling Techniques In Cloud Computing: A Review</a>
+
+                                            <br />
+                                                4TH INTERNATIONAL CONFERENCE OF RELIABLE INFORMATION AND COMMUNICATION TECHNOLOGY, IRICT 2019<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108900">Software Defined Communication Framework For Smart Grid To Meet Energy Demands In Smart Cities </a>
+
+                                            <br />
+                                                7TH INTERNATIONAL ISTANBUL SMART GRIDS AND CITIES CONGRESS AND FAIR, ICSG 2019<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108872">Ambient Energy Harvesting For Low Powered Wireless Sensor Network Based Smart Grid Applications</a>
+
+                                            <br />
+                                                7TH INTERNATIONAL ISTANBUL SMART GRIDS AND CITIES CONGRESS AND FAIR (ICSG)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/103248">Energy Efficient Opportunistic Routing Protocol (Ee-Or) For Underwater Wireless Sensor Network</a>
+
+                                            <br />
+                                                JOURNAL OF PHYSICS: CONFERENCE SERIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108658">Energy Efficient Multi-Objective Evolutionary Routing Scheme For Reliable Data Gathering In Internet Of Underwater Acoustic Sensor Networks</a>
+
+                                            <br />
+                                                AD HOC NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108926">Qosrp: A Cross-Layer Qos Channel-Aware Routing Protocol For The Internet Of Underwater Acoustic Sensor Networks</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108825">An Efficient Symbiotic Organisms Search Algorithm With Chaotic Optimization Strategy For Multi-Objective Task Scheduling Problems In Cloud Computing Environment</a>
+
+                                            <br />
+                                                JOURNAL OF NETWORK AND COMPUTER APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108735">Energy Efficient And Reliable Data Gathering Using Internet Of Software-Defined Mobile Sinks For Wsns-Based Smart Grid Applications</a>
+
+                                            <br />
+                                                COMPUTER STANDARDS &amp; INTERFACES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108312">A Multi-Channel Distributed Routing Scheme For Smart Grid Real-Time Critical Event Monitoring Applications In The Perspective Of Industry 4.0</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF AD HOC AND UBIQUITOUS COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108758">Infrastructure Based Spectrum Sensing Scheme In Vanet Using Reinforcement Learning</a>
+
+                                            <br />
+                                                VEHICULAR COMMUNICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/100361">Bio-Inspired Routing Protocol For Wsn-Based Smart Grid Applications In The Context Of Industry 4.0</a>
+
+                                            <br />
+                                                TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/108986">A Multiobjective, Lion Mating Optimization Inspired Routing Protocol For Wireless Body Area Sensor Network Based Healthcare Applications</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/101152">Energy Efficient Opportunistic Routing Protocol (Ee-Or) For Underwater Wireless Sensor Network</a>
+
+                                            <br />
+                                                THE 2ND INTERNATIONAL CONFERENCE OF WOMEN IN SCIENCE, ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/101167">Pressure Based Opportunistic Routing For Underwater Sensor Networks </a>
+
+                                            <br />
+                                                THE 9TH INTERNATIONAL CONFERENCE ON NUMERICAL OPTIMIZATION &amp; OPERATION RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/101194">An Energy Efficient Void Avoidance Opportunistic Routing (Eeva-Or) Protocol For Underwater Sensor Networks</a>
+
+                                            <br />
+                                                3RD INTERNATIONAL CONFERENCE ON ELECTRICAL, ELECTRONIC, COMMUNICATION AND CONTROL ENGINEERING (ICEECC 2018)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/100571">Investigation On Suitability Of Pulse Duration Parameter For Hela Cells Line Proliferation Properties Towards Anti-Cancer Application</a>
+
+                                            <br />
+                                                JOURNAL OF PHYSICS: CONFERENCE SERIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/84919">Development And Validation Of A Database Forensic Metamodel (Dbfm)</a>
+
+                                            <br />
+                                                PLOS ONE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/92081">Probabilistic And Replication Based Locking Routing Protocol For Delay Tolerant Network</a>
+
+                                            <br />
+                                                WIRELESS PERSONAL COMMUNICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/87999">Authentication Mechanisms In A Control Grid Computing&#xD;&#xA;Environment Using Identity Based Identification (Ibi)&#xD;&#xA;</a>
+
+                                            <br />
+                                                ADVANCED SCIENCE LETTERS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/15441">Optimized Interference Aware Joint Channel Assignment Model For Wireless Mesh Network</a>
+
+                                            <br />
+                                                TELECOMMUNICATION SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73044">An Efficient Next Hop Selection Algorithm For Multi-Hop Body Area Networks</a>
+
+                                            <br />
+                                                PLOS ONE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/77203">A Generic Database Forensic Investigation Process Model</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/74520">Hybrid Symbiotic Organism Search Optimization Algorithm For Scheduling Of Tasks On Cloud Computing Environment</a>
+
+                                            <br />
+                                                PLOS ONE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73438">Symbiotic Organism Search Optimization Based Task Scheduling In Cloud Computing Environment</a>
+
+                                            <br />
+                                                FUTURE GENERATION COMPUTER SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/69787">Location Server Selection Techniques In Vehicular Ad-Hoc Network</a>
+
+                                            <br />
+                                                IJCSI INTERNATIONAL JOURNAL OF COMPUTER SCIENCE ISSUES<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/72417">Rsa Authentication Mechanisms In Control Grid Computing Environment Using Gridsim Toolkit</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTING &amp; INFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/14585">Experimental Evaluation Of Tcp Congestion Contorl Mechanisms In Short And Long Distance Networks</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/70300">Energy Efficient Node Disjoint Multipath Routing To Improve Wireless Sensor Network Lifetime</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL &amp; APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/71877">Survey On End To End Congestion Control Techniques In Different Network Scenarios</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/68203">Investigating Severity Of Blackhole Attack And Its Variance In Wireless Mobile Ad Hoc Networks</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF EMBEDDED SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/71849">Requirements And Challenges In Body Sensor Networks: A Survey</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73569">Robust Path Construction For Reliable Data Transmissions In Node Disjoint Multipath Routing For Wireless Sensor Network</a>
+
+                                            <br />
+                                                TELKOMNIKA (TELECOMMUNICATION COMPUTING ELECTRONICS AND CONTROL)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/70592">Hmac Authentication Mechanisms In A Grid Computing Environment Using Gridsim Toolkit</a>
+
+                                            <br />
+                                                THE 14TH INTERNATIONAL 14TH INTERNATIONAL CONFERENCE ON NEW TRENDS IN INTELLIGENT SOFTWARE METHODOLOGY, TOOLS, AND TECHNIQUES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/2460">Location Service Protocol For Highly Mobile Ad Hoc Network</a>
+
+                                            <br />
+                                                ARABIAN JOURNAL OF SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/5656">Interference Nomenclature In Wireless Mesh Networks</a>
+
+                                            <br />
+                                                WIRELESS PERSONAL COMMUNICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73436">Quantifying The Severity Of Blackhole Attack In Wireless Mobile Adhoc Networks</a>
+
+                                            <br />
+                                                COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/7710">Performance Comparison Of Popular Routing Algorithms In Pocket Networks</a>
+
+                                            <br />
+                                                NEW TRENDS IN SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73575">Ensemble Of Clustering Algorithms For Anomaly Intrusion Detection System</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/6599">Towards Adapting Metamodelling Technique For Database Forensics Investigation Domain</a>
+
+                                            <br />
+                                                PROCEEDINGS - 2014 INTERNATIONAL SYMPOSIUM ON BIOMETRICS AND SECURITY TECHNOLOGIES, ISBAST 2014<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73572">A Traffic Redirection Based Congestion Control Scheme In Body Area Networks</a>
+
+                                            <br />
+                                                RESEARCH JOURNAL OF APPLIED SCIENCES, ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73573">A Review On Wireless Sensor Networks Routing Protocol: Challenges In Multipath Techniques</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/7708">Quantifying The Severity Of Blackhole Attack In Wireless Mobile Adhoc Networks</a>
+
+                                            <br />
+                                                SECURITY IN COMPUTING AND COMMUNICATIONS&#xD;&#xA;COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/3944">A Review Of Blackhole Attack In Mobile Adhoc Network</a>
+
+                                            <br />
+                                                PROCEEDINGS OF 2013 3RD INTERNATIONAL CONFERENCE ON INSTRUMENTATION, COMMUNICATIONS, INFORMATION TECHNOLOGY, AND BIOMEDICAL ENGINEERING (ICICI-BME)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73576">Energy Based Efficiency Evaluation Of Clustering Routing Protocols For Wireless Sensor Networks (Wsns)</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/5657">Quorum-Based Location Service Protocol For Vehicular Ad Hoc Networks In Urban Environment</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF AD HOC AND UBIQUITOUS COMPUTING <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/70">A Novel Lightweight Authentication Scheme For Mobile Ad Hoc Networks</a>
+
+                                            <br />
+                                                ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/23726">A Location Based Prediction Service Protocol For Vanet City Environment</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING INFORMATION AND CONTROL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55154">A Taxonomy Of Cross Layer Routing Metrics For Wireless Mesh Networks</a>
+
+                                            <br />
+                                                EURASIP JOURNAL ON WIRELESS COMMUNICATIONS AND NETWORKING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55164">An Overview Of Data Routing Approaches For Wireless Sensor Networks</a>
+
+                                            <br />
+                                                SENSORS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55170">Using Store-Forward Technique To Conserve Energy In Wireless Sensor Networks: Initial Step For Routing Mechanism</a>
+
+                                            <br />
+                                                PROCEEDINGS - 2012 8TH INTERNATIONAL CONFERENCE ON COMPUTING TECHNOLOGY AND INFORMATION MANAGEMENT, ICCM 2012 <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/65309">Multi-Criteria Receiver Self-Election Scheme For Optimal Packet Forwarding In Vehicular Ad Hoc Networks</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS &amp; CONTROL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73456">Congestion Control In Multi Channel 802.11b And 802.11g Wireless Networks</a>
+
+                                            <br />
+                                                ROMANIAN JOURNAL OF INFORMATION SCIENCE AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73546">Towards Deploying Vehicular Ad Hoc Networks On Aerodromes To Mitigate Incursions</a>
+
+                                            <br />
+                                                ADVANCED MATERIALS RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55168">Location Service Management Protocol For Vehicular Ad Hoc Network Urban Environment</a>
+
+                                            <br />
+                                                LECTURE NOTES OF THE INSTITUTE FOR COMPUTER SCIENCES, SOCIAL-INFORMATICS AND TELECOMMUNICATIONS ENGINEERING, LNICST<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/51119">Reactive Traffic-Aware Routing Strategy For Urban Vehicular Environments</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF AD HOC AND UBIQUITOUS COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/26119">Indirect Dns Covert Channel Based On Base 16 Matrix For Stealth Short Message Transfer</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTER SCIENCE ISSUES<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/63120">Automated Matching Systems And Correctional Method For Improved Inspection Data Quality</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTER THEORY AND ENGINEERING (IJCTE)<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/27166">Dns Request For Normal Minima Length Distribution Based On Reference Matrix</a>
+
+                                            <br />
+                                                COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55147">New Security Authentication Mechanisms In Grid Computing Web Environment</a>
+
+                                            <br />
+                                                2011 INTERNATIONAL CONFERENCE ON RESEARCH AND INNOVATION IN INFORMATION SYSTEMS, ICRIIS&#x27;11<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55155">Fuzzy-Assisted Social-Based Routing For Urban Vehicular Environments</a>
+
+                                            <br />
+                                                EURASIP JOURNAL ON WIRELESS COMMUNICATIONS AND NETWORKING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/26120">Indirect Dns Covert Channel Based On Name Reference For Minima Length Distribution</a>
+
+                                            <br />
+                                                2011 INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY AND MULTIMEDIA: &quot;UBIQUITOUS ICT FOR SUSTAINABLE AND GREEN LIVING&quot;, ICIM 2011<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/28654">Autonomic Service Composition Through Context Orientation Approach</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55144">Towards Providing A New Lightweight Authentication And Encryption Scheme For Manet</a>
+
+                                            <br />
+                                                WIRELESS NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/65310">3d Scientific Data Mining In Ion Trajectories</a>
+
+                                            <br />
+                                                THIRD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING: WKDD 2010, PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55136">-</a>
+
+                                            <br />
+                                                Intruder Location Tracking<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55137">-</a>
+
+                                            <br />
+                                                Enhancing MANET Security using Secret Public Keys<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73659">Improving Inspection Data Quality In Pipeline Corrosion Assessment</a>
+
+                                            <br />
+                                                PROCEEDINGS OF 2009 INTERNATIONAL CONFERENCE ON COMPUTER ENGINEERING AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73657">Enhancing Manet Security Using Secret Public Keys</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON FUTURE NETWORKS (ICFN 2009)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73658">Improved Inspection Data Quality Using Modified Corrosion Rate Method For Offshore Pipeline Assessment</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 2009 INTERNATIONAL CONFERENCE ON COMPUTER TECHNOLOGY AND DEVELOPMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55139">-</a>
+
+                                            <br />
+                                                Improved Inspection Data Quality Using Modified Corrosion Rate Method for Offshore Pipeline Assessment<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55128">Cooperative Intrusion Detection System (Cids) In Grid Environment On Unlabelled Data</a>
+
+                                            <br />
+                                                Proceedings of the 2008 High Performance Computing &amp; Simulation Conference (HPCS08)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55132">Intrusion Detection Of Mobile Ad-Hock Network (Manet) : A Literature Review</a>
+
+                                            <br />
+                                                The 10th International Conference on Quality Research (QIR)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55133">Wireless Security : A Review Of Researches Achievement Today</a>
+
+                                            <br />
+                                                International Graduate Conference on Engineering and Science (IGCES) 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55135">A Similarity Of Sobel And Pewitt Edge Detection For Cell Counting Simulation Of Human Blood Cells Using Matlab</a>
+
+                                            <br />
+                                                International Graduate Conference on Engineering and Science  ICFN &#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55160">A Novel Method For Unsupervised Anomaly Detection Using Unlabelled Data</a>
+
+                                            <br />
+                                                Proceedings - The International Conference on Computational Sciences and its Applications, ICCSA 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/65356">Spatio-Temporal Application For Collaborative Issues In Bioinformatics Datasets</a>
+
+                                            <br />
+                                                PROCEEDINGS - INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND SOFTWARE ENGINEERING, CSSE 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55140">Mechanize Feature-To-Feature Matching System Utilizing Repeated Inspection Data</a>
+
+                                            <br />
+                                                Jurnal Teknologi Maklumat<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55157">A Review Current Routing Attacks In Mobile Ad-Hoc Networks</a>
+
+                                            <br />
+                                                The International Journal of Computer Science and Security<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73480">Comprehensive Study&#xD;&#xA;Of Transmission Techniques For Reducing &#xD;&#xA;Packet Loss And Delay In Multimedia Over Ip</a>
+
+                                            <br />
+                                                IJCSNS INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY <br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/65311">Colour Number Coding Scheme For Human Blood Cell</a>
+
+                                            <br />
+                                                IFMBE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55165">A Survey Of Active Transmission Technique For Improve Quality Of Service In Multimedia Over Ip</a>
+
+                                            <br />
+                                                International Symposium on Information Technology<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55131">Development 3gp Technique For Multimedia Over Ip</a>
+
+                                            <br />
+                                                Postgraduate Annual Research Seminar (PARS&#xBF; 07). <br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/55158">Analysis Of Parameter For Local Colour Scale In Ion Trajectories</a>
+
+                                            <br />
+                                                International Journal of Computer Science<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/65312">Visualizing Collaborative Time-Varying Scientific Datasets</a>
+
+                                            <br />
+                                                IFMBE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73466">Analysis Of Parameter For Local Colour Scale In Ion Trajectories</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND SECURITY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73469">Global Colour Scale For Timeline Events In Ion Dynamics</a>
+
+                                            <br />
+                                                ASM SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZzJo/73473">C</a>
+
+                                            <br />
+                                                CHIANG MAI UNIVERSITY JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZzJo/kaD6"> INFORMATION TECHNOLOGY APTITUDE TEST</a></td>
+                                        <td>LY2020006298</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZzJo/mwgX"> INTERFERENCE AWARE CLUSTER BASED JOINT CHANNEL ASSIGNMENT SCHEME IN WIRELESS MESH NETWORK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZzJo/KmXb"> INTERFERENCE AWARE NON-OVERLAPPING CHANNEL ASSIGNMENT MODEL IN WIRELESS MESH NETWORK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZzJo/rWj3"> INTERFERENCE AWARE JOINT CHANNEL ASSIGNMENT MODEL IN WIRELESS MESH NETWORK</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>RASHID HAFEEZ KHOKHAR</strong><br />
+                                                TRAFFIC-AWARE ROUTING AND OBSTACLES MODELING IN VEHICULAR AD HOC NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2011</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>TAMEEM EISSA</strong><br />
+                                                A LIGHTWEIGHT IDENTITY-BASED RIVERST-SHAMIR-ADLEMAN AUTHENTICATION SCHEME FOR MOBILE AD HOC NETWORKS&#xD;&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2011</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SALIM M. ZAKI</strong><br />
+                                                INTELLIGENT QUORUM-BASED LOCATION SERVICE PROTOCOL FOR VEHICULAR AD-HOC NETWORKS IN URBAN ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2012</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAQIB ALI</strong><br />
+                                                INTERFERENCE AWARE CLUSTER-BASED JOINT CHANNEL ASSIGNMENT SCHEME IN MULTI-CHANNEL MULTI-RADIO WIRELESS MESH NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ISMAIL BIN AHMEDY                       </strong><br />
+                                                ENHANCED ENERGY PATH AWARE ROUTING MECHANISM FOR WIRELESS SENSOR NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>VAHID AYATOLLAHITAFTI</strong><br />
+                                                ENHANCED FORWARDING MECHANISM FOR ROUTING AND CONGESTION CONTROL IN BODY AREA NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SALIMA OMAR M. HAMAD</strong><br />
+                                                GRAVITATIONAL SEARCH ALGORITHM-BASED ANOMALY INSTRUSION DETECTION SYSTEM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SYARIL NIZAM BIN OMAR</strong><br />
+                                                SIXTEEN-BASED REFERENCE MATRIX FOR NOISE RESISTANT STEALTH COVERT CHANNEL FRAMEWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ALMAZROI, ABDULALEEM ALI  A</strong><br />
+                                                ENERGY-AWARE PACKET PRIORITY SCHEDULING FOR NODE DISJOINT MULTIPATH ROUTING IN WIRELESS SENSOR NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUDASSAR AHMAD</strong><br />
+                                                TRANSMISSION CONTROL PROTOCOL CONGESTION CONTROL IN LONG DISTANCE HIGH BANDWIDTH NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>USMAN AHMAD</strong><br />
+                                                IMPROVED TRANSMISSION CONTROL PROTOCOL CONGESTION CONTROL TECHNIQUE FOR HIGH BANDWIDTH LONG DISTANCE NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAIFUL ADLI BIN ISMAIL</strong><br />
+                                                ENHANCEMENT OF AUTHENTICATION MECHANISMS USING IDENTITY BASED IDENTIFICATION IN GRID COMPUTING ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABDULLAHI MOHAMMED</strong><br />
+                                                OPTIMIZED TASK SCHEDULING BASED ON HYBRID SYMBIOTIC ORGANISMS SEARCH ALGORITHMS FOR CLOUD COMPUTING ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ARAFAT MOHAMMED RASHAD ALDHAQM</strong><br />
+                                                SIMPLIFIED DATABASE FORENSIC INVESTIGATION USING METAMODELING APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZLINA BINTI KAMARUDDIN</strong><br />
+                                                MULTI-LAYER APPROACH FOR ENERGY EFFICIENT OPPORTUNISTIC ROUTING PROTOCOL IN UNDERWATER SENSOR NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD FAHEEM</strong><br />
+                                                ENERGY EFFICIENT MULTI CHANNEL PACKET FORWARDING MECHANISM FOR WIRELESS SENSOR NETWORKS IN SMART GRID APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AJOZE ABDULRAHEEM ZUBAIR</strong><br />
+                                                ENHANCED MULTI-OBJECTIVE TASK SCHEDULING OPTIMIZATION SCHEME FOR QUALITY OF SERVICE IN CLOUD COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2023</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABDULLAH ALI A ALAHMARI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">CIEP PROGRAMME</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZLINA BINTI AHMADI JULAIHI</strong><br />
+                                                A LIGHTWEIGHT MULTIFACTOR AUTHENTICATION FOR INTERNET OFTHINGS-BASED MEDICAL NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NAVEED AHMED</strong><br />
+                                                ENHANCED FEATURE SELECTION AND CLUSTER-BASED CLASSIFICATION FOR DETECTING ZERO-DAY ATTACKS IN HETEROGENEOUS INTERNET OF THINGS (IOT) NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HAWEZI OMEED KAMAL KHORSHEED</strong><br />
+                                                HYBRID TECHNIQUE FOR ACCURATE NODE LOCALIZATION IN WIRELESS SENSOR NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABRAHAM OLANREWAJU LAWRENCE</strong><br />
+                                                ENHANCING QOS PERFORMANCE IN CLOUD COMPUTING THROUGH AN EFFICIENT DWARF MONGOOSE OPTIMIZATION ALGORITHM FOR MULTI-OBJECTIVE TASK SCHEDULING<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>BU XU</strong><br />
+                                                ENHANCED DIRECTED ACYCLIC GRAPH ALGORITHM FOR CONSORTIUM BLOCKCHAIN<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AHMED MOHAMMED S ALZAHRANI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">CIEP PROGRAMME</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ALI MOHAMMED ALI</strong><br />
+                                                HYBRID DESTINATION SEQUENCED AND AD-HOC ON DEMAND DISTANCE VECTOR ROUTING PROTOCOL FOR VEHICULARAD-HOC NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>REEM OSMAN HASSAN OSMAN</strong><br />
+                                                ENHANCING MANET BATTERY LIFE USING MANETPERFORMANCE CLUSTER HEAD<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMMED KHALID SULAIMAN AL MAAWALI</strong><br />
+                                                BLOCKCHAIN SCALABILITY <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABDULAZIZ ZAID A ALJARWAN </strong><br />
+                                                PROOF-OF-REVIEW BASED SCALABLE BLOCKCHAIN CONSENSUS&#xD;&#xA;MODEL FOR HELTHCARE SYSTEMS&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AL-ANSSARI BAHAA MUNEER ISMAEL</strong><br />
+                                                MULTI-OBJECTIVE OPTIMIZATION AND REINFORCEMENT LEARNING FOR CHANNEL ASSIGNMENT AND USER-ROUTER ALLOCATION IN MULTI-RADIO MULTI-CHANNEL WIRELESS MESH NETWORKS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZHOU WENQIN</strong><br />
+                                                ENHANCED CONTAINER-BASED TASK SCHEDULING METHOD IN CLOUD COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NAZIR MUHAMMAD USAMA </strong><br />
+                                                ARCHITECTURAL DESIGN OF HYBRID AUTOMATION TESTING&amp;NBSP;FRAMEWORK<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SATRIA MANDALA                          </strong><br />
+                                                INTERGRATING SECURITY SERVICES INTO ACTIVE NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2005</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MAIMUN RIZAL</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2007</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SALIM M. ZAKI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2008</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHD HAFIZ BIN ROSLIM                   </strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2009</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHD FARHAN BIN NGATMAN</strong><br />
+                                                TASK SCHEDULING OPTIMIZATION IN CLOUD COMPUTING USING NEWHYBRID MODIFICATION PARTICLE SWARM OPTIMIZATION<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2011</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MD. AKHTARUZZAMAN ADNAN</strong><br />
+                                                OPTIMIZED CLUSTER HEAD SELESTION ALGORITHM USING CUCKOO SEARCH FOR WIRELESS SENSOR NETWORK<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NORNABILAH BINTI IBRAHIM</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ASIAH MASTURA BINTI SUHAIMI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMED FAHIM ALY ISMAIL</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">CIEP PROGRAMME</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD ANUS</strong><br />
+                                                PUBLIC-PROOF OF ELAPSED TIME (P-POET)<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : MD. ASRI BIN NGADI                      " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : MD. ASRI BIN NGADI                      " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : MD. ASRI BIN NGADI                      " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : MD. ASRI BIN NGADI                      " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = 'ZzJo';
+        var scopus_id = '24923511700';
+        var nama_pekerja = 'MD. ASRI BIN NGADI                      ';
+        var no_pkrj = '7418';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>
